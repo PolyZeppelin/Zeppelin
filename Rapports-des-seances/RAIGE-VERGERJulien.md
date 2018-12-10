@@ -10,6 +10,6 @@
 <img src="../Ressources/Julien/20181210_111724.jpg" />
 
 - J'ai dénudé un ancien fil du moteur et je l'ai re-soudé car il était en mauvais état, ce qui rendait les branchements compliqués
-- Une fois les branchements des moteurs latéraux sur la carte arduino, j'ai ré-utilisé un ancien programme (celui pour la voiture) afin de tester le fonctionnement des moteurs. 
+- Une fois les branchements des moteurs latéraux sur la carte arduino réalisés, j'ai ré-utilisé un ancien programme (celui pour la voiture) afin de tester le fonctionnement des moteurs. 
 - à notre étonnement, tout a marché comme prévu du premier coup, les moteurs fonctionnent très bien et le branchement est bon, voici une vidéo youtube illustrant le fonctionnement des moteurs. https://www.youtube.com/watch?v=F8a-x4bFFEo&feature=youtu.be 
 
