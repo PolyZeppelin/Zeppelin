@@ -9,7 +9,11 @@
   <li>Création du projet sous Github pour la remise des comptes rendus ainsi que le dépot de nos codes.</li>
   <li>Etude puis destruction du travail effectué par les étudiants de l'année dernière. 
     <br><center><img src="../Ressources/Jens/20181210_111428.jpg" alt="brouillon" height="200"></center> 
-  <li>Création du schéma du projet</li>
+  <li>Une fois la nacelle detruite, on connecte les fils des moteurs avec la puce L2936D selon le schéma du cours. Pour cela il a fallu resoudé les fils usés des moteurs afin de les connecté a notre plaque, et donc a notre puce. 
+   <p> Nous avons réussi le montage, les moteurs tournents. On a cependant pas eu le temps de connecté le moteur de controle hauteur de vol mais uniquement les moteurs de direction.
+   <img src="../Ressources/Jens/20181210_122840.jpg" alt="brouillon" height="200"></p>
+   <img src="../Ressources/Jens/20181210_123353 (1).jpg" alt="brouillon" height="200"></p>
+ </li>
  </ul>
  
  
