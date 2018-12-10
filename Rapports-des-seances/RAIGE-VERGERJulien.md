@@ -13,5 +13,5 @@
 - Une fois les branchements des moteurs latéraux sur la carte arduino réalisés, j'ai ré-utilisé un ancien programme (celui pour la voiture) afin de tester le fonctionnement des moteurs. 
 - J'ai été agréablement surpris, tout a marché comme prévu du premier coup,le branchement était bon et les moteurs ont très bien fonctionné, voici une vidéo youtube illustrant le fonctionnement des moteurs. 
 https://www.youtube.com/watch?v=F8a-x4bFFEo&feature=youtu.be 
-- La semaine prochaine, il faudra brancher le moteur du dessous du zeppelin, et vérifier son fonctionnement.
+- La semaine prochaine, il faudra brancher le dernier moteur (celui du dessous), et vérifier son fonctionnement.
 
