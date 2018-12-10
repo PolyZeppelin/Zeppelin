@@ -2,7 +2,7 @@
 <hr>
 <h2> Séance du 10 décembre 2018 </h2>
 <hr>
-- Création du compte GitHub associé au projet, j'ai créé une "organization" pour que l'on puisse modifier les fichiers en même temps, sur deux ordinateurs différents avec deux comptes différents 
+ - Création du compte GitHub associé au projet, j'ai créé une "organization" pour que l'on puisse modifier les fichiers en même temps, sur deux ordinateurs différents avec deux comptes différents 
   <br>
   <br>
  
