@@ -14,7 +14,8 @@
 - J'ai été agréablement surpris, tout a marché comme prévu du premier coup,le branchement était bon et les moteurs ont très bien fonctionné, voici une vidéo youtube illustrant le fonctionnement des moteurs. 
 https://www.youtube.com/watch?v=F8a-x4bFFEo&feature=youtu.be 
 - La semaine prochaine, il faudra brancher le dernier moteur (celui du dessous), et vérifier son fonctionnement.
+
 <br>
-
+<hr>
 <h2> Séance du 17 décembre 2018 </h2>
-
+<hr>
