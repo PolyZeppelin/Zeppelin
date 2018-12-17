@@ -19,11 +19,11 @@ https://www.youtube.com/watch?v=F8a-x4bFFEo&feature=youtu.be
 <hr>
 <h2> Séance du 17 décembre 2018 </h2>
 <hr> 
-- J'ai écrit le cahier des charges du projet <br>
-- Après que Jens ait branché le dernier moteur (celui du dessous) et que monsieur Masson nous ait donné la puce qu'il nous manquait, j'ai adapté le code de test des moteurs pour qu'il puisse tester le dernier moteur. 
+ • J'ai écrit le cahier des charges du projet <br>
+ • Après que Jens ait branché le dernier moteur (celui du dessous) et que monsieur Masson nous ait donné la puce qu'il nous manquait, j'ai adapté le code de test des moteurs pour qu'il puisse tester le dernier moteur. 
 <img src="../Ressources/Julien/20181217_105212.jpg" />
-- Echec pour faire fonctionner le dernier moteur <br>
-- Après de nombreux essais pour trouver le problème, on a compris qu'il venait du branchement pour la deuxième puce (celle où il n'y a 
+ • Echec pour faire fonctionner le dernier moteur <br>
+ • Après de nombreux essais pour trouver le problème, on a compris qu'il venait du branchement pour la deuxième puce (celle où il n'y a 
 que le dernier moteur). <img src="../Ressources/Julien/20181217_105200.jpg"" />
- - Je me suis rendu compte que nous n'avions relié la puce au 5V et à la masse que d'un côté, alors qu'il faut le faire pour les deux, même si on fait fonctionné un seul côté. <br>
- - Après cette correction, le moteur s'est bien mit à tourner correctement.
+  • Je me suis rendu compte que nous n'avions relié la puce au 5V et à la masse que d'un côté, alors qu'il faut le faire pour les deux, même si on fait fonctionné un seul côté. <br>
+  • Après cette correction, le moteur s'est bien mit à tourner correctement.
