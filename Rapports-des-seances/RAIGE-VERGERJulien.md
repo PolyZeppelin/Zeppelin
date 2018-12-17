@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=F8a-x4bFFEo&feature=youtu.be
 <hr>
 <h2> Séance du 17 décembre 2018 </h2>
 <hr>
+- J'ai écrit le cahier des charges du projet
+- 
