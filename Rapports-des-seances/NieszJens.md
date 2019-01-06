@@ -18,6 +18,7 @@
  </ul>
   <h2> Travail personnel du 17 Décembre</h2>
  <ul>
+ <br><center><img src="../Ressources/Jens/Capture.jpg" alt="brouillon" height="200"></center> 
   <li>Tout d'abord, comme sur les moteurs précédents, il a fallu resouder les fils du moteurs de controle de hauteur de vol. On a ensuite brancher le moteur a une deuxieme puce L2936D .  
     <br><center><img src="../Ressources/Jens/20181217_105137.jpg" alt="brouillon" height="200"></center> 
    </li>
