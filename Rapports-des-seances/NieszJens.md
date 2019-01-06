@@ -23,7 +23,7 @@
    </li>
  <li> Cependant il ne tournait toujours pas. Malgrés les echanges methodiques de puces, de cables, ou de moteur, on a pas reussi a localiser le probleme. C'est uniquement à la fin que nous avions vu que la masse et le 5V de la deuxieme puce n'etait pas brancher correctement. 
  </li>
- <li>Et enfin à la fin de la séance nous avons créé le premier prototype dd télécommandes sur Bluetooth Electronics. Mais nous avions pas réussi à la finir et à la faire fonctionner. 
+ <li>Et enfin à la fin de la séance nous avons créé le premier prototype de télécommandes sur Bluetooth Electronics. Mais nous avions pas réussi à la finir et à la faire fonctionner. 
  </li>
   
  </ul>
