@@ -18,11 +18,14 @@
  </ul>
   <h2> Travail personnel du 17 Décembre</h2>
  <ul>
-  <li>Tout d'abord, comme sur les moteurs précédents, il a fallu resouder les fils du moteurs de controle de hauteur de vol. On a ensuite brancher le moteur a une deuxieme puce. 
+  <li>Tout d'abord, comme sur les moteurs précédents, il a fallu resouder les fils du moteurs de controle de hauteur de vol. On a ensuite brancher le moteur a une deuxieme puce L2936D .  
     <br><center><img src="../Ressources/Jens/20181217_105137.jpg" alt="brouillon" height="200"></center> 
    </li>
-  <li>Une fois la nacelle detruite, on connecte les fils des moteurs avec la puce L2936D selon le schéma du cours. Pour cela il a fallu resoudé les fils usés des moteurs afin de les connecté a notre plaque, et donc a notre puce. 
+ <li> Cependant il ne tournait toujours pas. Malgrés les echanges methodiques de puces, de cables, ou de moteur, on a pas reussi a localiser le probleme. C'est uniquement à la fin que nous avions vu que la masse et le 5V de la deuxieme puce n'etait pas brancher correctement. 
  </li>
+ <li>Et enfin à la fin de la séance nous avons créé le premier prototype dd télécommandes sur Bluetooth Electronics. Mais nous avions pas réussi à la finir et à la faire fonctionner. 
+ </li>
+  
  </ul>
  
  
