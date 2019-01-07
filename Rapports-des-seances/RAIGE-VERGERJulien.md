@@ -27,3 +27,8 @@ https://www.youtube.com/watch?v=F8a-x4bFFEo&feature=youtu.be
 que le dernier moteur). <img src="../Ressources/Julien/20181217_105200.jpg"" />
   • Je me suis rendu compte que nous n'avions relié la puce au 5V et à la masse que d'un côté, alors qu'il faut le faire pour les deux, même si on fait fonctionné un seul côté. <br>
   • Après cette correction, le moteur s'est bien mit à tourner correctement.
+
+<br>
+<hr>
+<h2> Séance du 07 janvier 2019 </h2>
+<hr>
