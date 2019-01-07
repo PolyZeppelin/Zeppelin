@@ -41,9 +41,9 @@ Léger test des moteurs
 <h2> Séance du 07 janvier 2019 </h2>
 <br>
 <hr>
-Je reprends un code précédemment utilisé en cours pour relier la voiture au module bluetooth, et je l'adapte pour que ça 
+• Je reprends un code précédemment utilisé en cours pour relier la voiture au module bluetooth, et je l'adapte pour que ça 
 colle au zeppelin. <br>
-J'ai quelques problèmes avec le Bluetooth, mais je parviens à régler le problème (problème de code). <br>
-Cependant, maintenant, le Bluetooth fonctionne bien mais le moteur ne répond pas au message Bluetooth. <br>
-Avec l'aide de monsieur Masson, on s'est rendus compte que le problème ne venait pas du Bluetooth, car on a réussit à faire fonctionner un autre moteur avec le Bluetooth. <br>
-Le problème ne peut pas non plus venir du moteur car il fonctionne sans Bluetooth, donc la dernière solution est le branchage de ce moteur, qui est le moteur branché tout seul (le moteur du dessous) contrairement aux deux autres.
+• J'ai quelques problèmes avec le Bluetooth, mais je parviens à régler le problème (problème de code). <br>
+• Cependant, maintenant, le Bluetooth fonctionne bien mais le moteur ne répond pas au message Bluetooth. <br>
+• Avec l'aide de monsieur Masson, on s'est rendus compte que le problème ne venait pas du Bluetooth, car on a réussit à faire fonctionner un autre moteur avec le Bluetooth. <br>
+• Le problème ne peut pas non plus venir du moteur car il fonctionne sans Bluetooth, donc la dernière solution est le branchage de ce moteur, qui est le moteur branché tout seul (le moteur du dessous) contrairement aux deux autres.
