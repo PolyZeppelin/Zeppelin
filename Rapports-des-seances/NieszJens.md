@@ -33,6 +33,8 @@
  <li>On continue la communication bluetooth que nous avions debuter à la derniere séance. Cependant cela ne fonctionne pas. La communication est établie car lors des commandes "AT", le zeppelin repond nous requete. Cependant les moteurs ne tournent pas. 
  
  </li>
+ <li> Aprés de nombreux tests ( on a chercher le probleme, avec peut etre un soucis de TIMER, un soucis de code ou encore un soucis de cablage), mais il semblerais que le code est juste car avec un autre moteur cela fonctionne, c'est uniquement le moteur C qui ne marche pas. On a donc verifier les cablages de la deuxieme puces, et meme utiliser un oscilloscope pour verifier l'input sur le PWM. 
+</li>
 
 
 
