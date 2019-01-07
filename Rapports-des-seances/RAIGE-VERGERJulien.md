@@ -30,5 +30,18 @@ que le dernier moteur). <img src="../Ressources/Julien/20181217_105200.jpg"" />
 
 <br>
 <hr>
-<h2> Séance du 07 janvier 2019 </h2>
+<h2> Travail personnel pendant les vacances de Noël </h2>
+<br>
 <hr>
+Réalisation du planning
+Léger test des moteurs
+
+<br>
+<hr>
+<h2> Séance du 07 janvier 2019 </h2>
+<br>
+<hr>
+Je reprends un code précédemment utilisé en cours pour relier la voiture au module bluetooth, et je l'adapte pour que ça 
+colle au zeppelin. 
+J'ai quelques problèmes avec le Bluetooth, mais je parviens à régler le problème (problème de code).
+Cependant, maintenant, le Bluetooth fonctionne bien mais le moteur ne répond pas au message Bluetooth.
