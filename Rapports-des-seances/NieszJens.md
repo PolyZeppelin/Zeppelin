@@ -29,7 +29,10 @@
   
  </ul>
  <h2> Travail personnel du 7 Janvier</h2>
+ <ul>
+ <li>On continue la communication bluetooth que nous avions debuter à la derniere séance. Cependant cela ne fonctionne pas. La communication est établie car lors des commandes "AT", le zeppelin repond nous requete. Cependant les moteurs ne tournent pas. 
  
+ </li>
 
 
 
