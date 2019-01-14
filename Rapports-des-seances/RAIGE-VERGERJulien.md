@@ -46,3 +46,9 @@ colle au zeppelin. <br>
 • Avec l'aide de monsieur Masson, on s'est rendus compte que le problème ne venait pas du Bluetooth, car on a réussit à faire fonctionner un autre moteur avec le Bluetooth. <br>
 • Le problème ne peut pas non plus venir du moteur car il fonctionne sans Bluetooth, donc la dernière solution est le branchage de ce moteur, qui est le moteur branché tout seul (le moteur du dessous) contrairement aux deux autres. <br>
 • A la fin de la séance, pendant que Jens essayait de réparer le dernier moteur, j'ai adapté le programme pour faire en sorte que l'on puisse déjà contrôler les deux moteurs latéraux par Bluetooth, ce qui fonctionne bien.
+
+<br>
+<hr>
+<h2> Séance du 14 janvier 2019 </h2>
+<hr>
+•
