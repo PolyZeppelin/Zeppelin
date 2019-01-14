@@ -51,4 +51,10 @@ colle au zeppelin. <br>
 <hr>
 <h2> Séance du 14 janvier 2019 </h2>
 <hr>
-•
+• Je me suis aperçu que deux moteurs avaient des problèmes pour s'arrêter. J'ai donc tenté de régler le problème avec le code en faisant plusieurs tests, mais je n'ai rien trouvé de concluant.
+• Monsieur Masson nous a aidé et il s'agissait en fait d'une erreur de cablâge.
+• Après avoir résolu ces problèmes de cablâge, les moteurs marchent parfaitement.
+• J'ai donc réalisé les dernières commandes élémentaires bluetooth (aller tout droit avec les deux moteurs à pleine puissance dans le même sens, reculer avec les moteurs dans l'autre sens, aller à gauche, aller à droite et couper les moteurs).
+• J'ai aussi codé les commandes du dernier moteur pour le faire touruner dans les deux sens et le faire s'arrêter grâce au Bluetooth.
+Voici une vidéo qui illustre les différentes commandes que l'on peut réaliser pour l'instant avec le Bluetooth.
+https://youtu.be/4ceAmGodClM
