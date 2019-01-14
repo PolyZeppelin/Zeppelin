@@ -36,6 +36,10 @@
  <li> Aprés de nombreux tests ( on a chercher le probleme, avec peut etre un soucis de TIMER, un soucis de code ou encore un soucis de cablage), mais il semblerais que le code est juste car avec un autre moteur cela fonctionne, c'est uniquement le moteur C qui ne marche pas. On a donc verifier les cablages de la deuxieme puces, et meme utiliser un oscilloscope pour verifier l'input sur le PWM. 
 </li>
 
-
+<h2> Travail personnel du 14 Janvier</h2>
+<ul>
+ <li>
+  Les moteurs ne fonctionnent pas parfaitement. Monsieur Masson a vérifié les cablâges, et nous nous étions plantés. C'est-à-dire que le cable "enable" du moteur C et du moteur B étaient inversés. Il y avait également un soucis d'OUTPUT sur le arduino.
+  On a donc maintenant des moteurs qui fonctionnent, et on créé la télécommande pour contrôler les moteurs. (avant, arrière, gauche, droite, haut, bas).
 
 
