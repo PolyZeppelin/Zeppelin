@@ -42,5 +42,8 @@
   Les moteurs ne fonctionnent pas parfaitement. Monsieur Masson a vérifié les cablâges, et nous nous étions plantés. C'est-à-dire que le cable "enable" du moteur C et du moteur B étaient inversés. Il y avait également un soucis d'OUTPUT sur le arduino.
   On a donc maintenant des moteurs qui fonctionnent, et on créé la télécommande pour contrôler les moteurs. (avant, arrière, gauche, droite, haut, bas).
   <br><center><img src="../Ressources/Jens/50437939_747635198950581_1879622261623750656_n.jpg" alt="brouillon" height="200"></center>
-
+ </li>
+ <li>
+  En fin de séance, aprés les oraux, nous avons peaufiné les commandes et avons ajouté une jauge qui permet de controler la vitesse de rotation des moteurs.
+ </li>
 
