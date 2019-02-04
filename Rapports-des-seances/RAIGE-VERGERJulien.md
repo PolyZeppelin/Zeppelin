@@ -58,3 +58,9 @@ colle au zeppelin. <br>
 • J'ai aussi codé les commandes du dernier moteur pour le faire touruner dans les deux sens et le faire s'arrêter grâce au Bluetooth.
 Voici une vidéo qui illustre les différentes commandes que l'on peut réaliser pour l'instant avec le Bluetooth. <br>
 https://youtu.be/4ceAmGodClM
+
+<br>
+<hr>
+<h2> Séance du 4 février 2019 </h2>
+<hr>
+•
