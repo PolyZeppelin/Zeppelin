@@ -45,5 +45,6 @@
  </li>
  <li>
   En fin de séance, aprés les oraux, nous avons peaufiné les commandes et avons ajouté une jauge qui permet de controler la vitesse de rotation des moteurs.
- </li>
-
+ </li><h2> Travail personnel du 04 février</h2>
+ <ul>
+  <li></li>
