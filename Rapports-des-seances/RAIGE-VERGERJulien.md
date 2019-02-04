@@ -63,4 +63,4 @@ https://youtu.be/4ceAmGodClM
 <hr>
 <h2> Séance du 4 février 2019 </h2>
 <hr>
-• test
+• J'ai étudié le fonctionnement du microcontrôleur ATTiny (au niveau du fonctionnement et du brochage).
