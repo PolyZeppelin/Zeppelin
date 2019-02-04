@@ -65,3 +65,4 @@ https://youtu.be/4ceAmGodClM
 <hr>
 • J'ai étudié le fonctionnement du microcontrôleur ATTiny (au niveau du fonctionnement et du brochage). <br>
 • J'ai mis à jour arduino pour pouvoir utiliser l'ATTiny85 assez rapidement, mais c'est plus compliqué pour l'ATTiny2313 (qui nous arrangerait car il est plus grand et permet plus de branchements, notamment pour le sens avant et arrière du zeppelin.) <br>
+• J'ai testé la tension du module Bluetooth 
