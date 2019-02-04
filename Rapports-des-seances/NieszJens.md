@@ -47,4 +47,7 @@
   En fin de séance, aprés les oraux, nous avons peaufiné les commandes et avons ajouté une jauge qui permet de controler la vitesse de rotation des moteurs.
  </li><h2> Travail personnel du 04 février</h2>
  <ul>
-  <li></li>
+  <li>Lors de cette séance nous allons nous renseigner sur la nouvelle carte Attiny2313 que nous allons utiliser et mettre dans la nacelle du zeppelin. Il a tout d'abord fallu "preparer" notre logiciel arduino afin de pouvoir utiliser la carte ATtiny.</li>
+<li> Ensuite il a fallu etudier le fonctionnement du module bluetooth hc06 car nous avons une pipile de 3v , cependant on a tester avec le generateur , le module ne fonctionne pas a partir de 3.5. </li>
+  <li> Il va falloir trouver une solution pour alimenter le zeppelin. Ou bien changer de module de telecommunication, par exemple le module hc12 qui accepte entre 3.2V et 5.5V</li>
+ 
