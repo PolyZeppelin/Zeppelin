@@ -68,3 +68,9 @@ https://youtu.be/4ceAmGodClM
 • J'ai testé la tension du module Bluetooth <br>
 • Monsieur Masson nous a donné un module HC-12, qui pourrait être intéressant car plus petit mais plus puissant, notamment par la portée du module, qui est bien plus grande que le HC-06. <br>
 • On a donc testé le HC-12, la tension limite (basse) est de 3.2V.  Néanmoins, il ne s'agit pas de Bluetooth pour le HC-12, donc il faudrait changer le fonctionnement des déplacements du zeppelin (passer du Bluetooth à une télécommande).
+
+<br>
+<hr>
+<h2> Séance du 11 février 2019 </h2>
+<hr>
+• Monsieur Masson nous a donné une puce ATtiny2313 <br>
