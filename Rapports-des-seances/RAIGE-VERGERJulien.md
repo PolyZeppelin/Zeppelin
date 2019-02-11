@@ -76,4 +76,6 @@ https://youtu.be/4ceAmGodClM
 • Monsieur Masson nous a donné une puce ATtiny2313 <br>
 • J'avais mis à jour l'arduino pour faire fonctionner la puce ATtiny85, donc je cherche comment faire marcher la 2313. <br>
 • Nous avons des problèmes de version par rapport au tutoriel que nous suivons. <br>
-• 
+• Après avoir changé la version, nous n'avons plus d'erreur. <br>
+• J'ai donc voulu tester le fonctionnement de l'ATtiny2313 avec un programme "Blink" qui doit faire clignoter la LED, mais, malgré le fait qu'il n'y ait pas d'erreurs, ça ne fonctionne pas.
+•
