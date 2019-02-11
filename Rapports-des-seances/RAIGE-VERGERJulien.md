@@ -74,3 +74,6 @@ https://youtu.be/4ceAmGodClM
 <h2> Séance du 11 février 2019 </h2>
 <hr>
 • Monsieur Masson nous a donné une puce ATtiny2313 <br>
+• J'avais mis à jour l'arduino pour faire fonctionner la puce ATtiny85, donc je cherche comment faire marcher la 2313.
+• Nous avons des problèmes de version par rapport au tutoriel que nous suivons. 
+• 
