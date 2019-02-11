@@ -50,4 +50,5 @@
   <li>Lors de cette séance nous allons nous renseigner sur la nouvelle carte Attiny2313 que nous allons utiliser et mettre dans la nacelle du zeppelin. Il a tout d'abord fallu "preparer" notre logiciel arduino afin de pouvoir utiliser la carte ATtiny.</li>
 <li> Ensuite il a fallu etudier le fonctionnement du module bluetooth hc06 car nous avons une pipile de 3v , cependant on a tester avec le generateur , le module ne fonctionne pas a partir de 3.5. </li>
   <li> Il va falloir trouver une solution pour alimenter le zeppelin. Ou bien changer de module de telecommunication, par exemple le module hc12 qui accepte entre 3.2V et 5.5V</li>
- 
+<h2> Travail personnel du 11 février</h2>
+  <li>Lors de cette séance on peut enfin tenter de programmer notre attiny2313 qui est enfin arriver. Cependant les premiers essais ne marchent pas. Il y a un soucis avec le logiciel arduino, il n'affiche pas dans "type de cartes" le Attiny2313,pour résoudre ce probleme il a fallu "Downgrade" vers arduino 1.0.4. Cela fonctionne cette fois-ci, mais le programme test "Blink" ne fait pas clignoter la led.</li>
