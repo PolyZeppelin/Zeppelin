@@ -52,3 +52,6 @@
   <li> Il va falloir trouver une solution pour alimenter le zeppelin. Ou bien changer de module de telecommunication, par exemple le module hc12 qui accepte entre 3.2V et 5.5V</li>
 <h2> Travail personnel du 11 février</h2>
   <li>Lors de cette séance on peut enfin tenter de programmer notre attiny2313 qui est enfin arriver. Cependant les premiers essais ne marchent pas. Il y a un soucis avec le logiciel arduino, il n'affiche pas dans "type de cartes" le Attiny2313,pour résoudre ce probleme il a fallu "Downgrade" vers arduino 1.0.4. Cela fonctionne cette fois-ci, mais le programme test "Blink" ne fait pas clignoter la led.</li>
+ <br><center><img src="../Ressources/Jens/20190211_112533.jpg" alt="brouillon" height="200"></center> 
+  <li> Voici le cablage de l'arduion et de l'attiny2313</li>
+<br><center><img src="../Ressources/Jens/20190211_110633.jpg" alt="brouillon" height="200"></center>
