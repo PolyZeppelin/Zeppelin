@@ -87,3 +87,4 @@ https://youtu.be/4ceAmGodClM
 • Monsieur Masson nous a donné l'ancienne télécommande ainsi qu'un montage et un programme car nous nous sommes rendus compte qu'il y avait un problème entre la carte que nous avions (la xplained mini) et l'ATtiny. <br>
 • Nous utilisons donc maintenant une carte Uno R3 qui semble marcher sur le PC de monsieur Masson. <br>
 • Je reproduis le montage sur notre plaque afin de faire des tests.
+<img src="../Ressources/Julien/télécommande.jpg"" />
