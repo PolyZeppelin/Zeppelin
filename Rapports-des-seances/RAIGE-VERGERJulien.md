@@ -78,4 +78,9 @@ https://youtu.be/4ceAmGodClM
 • Nous avons des problèmes de version par rapport au tutoriel que nous suivons. <br>
 • Après avoir changé la version, nous n'avons plus d'erreur. <br>
 • J'ai donc voulu tester le fonctionnement de l'ATtiny2313 avec un programme "Blink" qui doit faire clignoter la LED, mais, malgré le fait qu'il n'y ait pas d'erreurs, ça ne fonctionne pas. <br>
+
+<br>
+<hr>
+<h2> Séance du 25 février 2019 </h2>
+<hr>
 •
