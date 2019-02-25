@@ -61,8 +61,8 @@
  Pendant les vacances, Monsieur Masson nous a fais un montage pour utiliser la puce Attiny2313 et également pour utiliser l'ancienne télécommande du zeppelin car le HC06 ne pouvais pas etre alimenter par la pipile de 3V. Il nous a donc presenter le montage, et il a fallu, telecharger les bibliotheques pour Attiny2313, charger le programme ArduinoISP puis le programme de Monsieur Masson pour controler les leds avec la télécommande.
  Cependant, avec la carte Uno le montage ne fonctionnait plus, le televersement du programme ArduinoISP ne fonctionnait pas. 
  
- 
-  
+ <br><center><img src="../Ressources/Jens/20190225_104613.jpg" alt="brouillon" height="200"></center>
+ <br><center><img src="../Ressources/Jens/20190225_110027.jpg" alt="brouillon" height="200"></center> 
   
   
   
