@@ -89,4 +89,5 @@ https://youtu.be/4ceAmGodClM
 <br>
 • Nous utilisons donc maintenant une carte Uno R3 qui semble marcher sur le PC de monsieur Masson. <br>
 • Je reproduis le montage sur notre plaque afin de faire des tests.<br>
+<img src="../Ressources/Jens/20190225_110027.jpg"" /> <br>                                               
 • Lorsque nous ne connectons rien à la carte, le téléversement du programme "ArduinoISP" marche bien, mais dès que l'on connecte à notre plaque, il y a une erreur de téléversement. <br>
