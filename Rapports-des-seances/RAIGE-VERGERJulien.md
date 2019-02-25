@@ -91,3 +91,11 @@ https://youtu.be/4ceAmGodClM
 • Je reproduis le montage sur notre plaque afin de faire des tests.<br>
 <img src="../Ressources/Jens/20190225_110027.jpg"" /> <br>                                               
 • Lorsque nous ne connectons rien à la carte, le téléversement du programme "ArduinoISP" marche bien, mais dès que l'on connecte à notre plaque, il y a une erreur de téléversement. <br>
+• Nous avons finalement réussi à résoudre le problème en changeant quelques branchements, j'ai donc récupéré le programme de monsieur Masson afin de tester la télécommande. <br>
+• Je vais procéder aux tests du programme chez moi durant la semaine.
+
+<br>
+<hr>
+<h2> Travail personnel durant la semaine entre le 25 février 2019 et le 4 mars 2019
+<hr>
+<br>
