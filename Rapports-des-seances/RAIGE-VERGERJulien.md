@@ -96,7 +96,7 @@ https://youtu.be/4ceAmGodClM
 
 <br>
 <hr>
-<h2> Travail personnel durant la semaine entre le 25 février 2019 et le 4 mars 2019
+<h2> Travail personnel durant la semaine entre le 25 février 2019 et le 4 mars 2019 </h2>
 <hr>
 <br>
 • J'ai commencé l'écriture du rapport du projet <br>
