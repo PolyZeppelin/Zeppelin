@@ -99,3 +99,5 @@ https://youtu.be/4ceAmGodClM
 <h2> Travail personnel durant la semaine entre le 25 février 2019 et le 4 mars 2019
 <hr>
 <br>
+• J'ai commencé l'écriture du rapport du projet <br>
+• Jens m'ayant informé d'un problème de surcharge lors de la compilation des programmes avec la nouvelle carte, j'ai envoyé un mail à Monsieur Masson afin de savoir si nous avions des solutions.
