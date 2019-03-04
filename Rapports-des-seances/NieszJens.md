@@ -45,7 +45,7 @@
  </li>
  <li>
   En fin de séance, aprés les oraux, nous avons peaufiné les commandes et avons ajouté une jauge qui permet de controler la vitesse de rotation des moteurs.
- </li><h2> Travail personnel du 25 février</h2>
+ </li><h2> Travail personnel du 04 février</h2>
  <ul>
   <li>Lors de cette séance nous allons nous renseigner sur la nouvelle carte Attiny2313 que nous allons utiliser et mettre dans la nacelle du zeppelin. Il a tout d'abord fallu "preparer" notre logiciel arduino afin de pouvoir utiliser la carte ATtiny.</li>
 <li> Ensuite il a fallu etudier le fonctionnement du module bluetooth hc06 car nous avons une pipile de 3v , cependant on a tester avec le generateur , le module ne fonctionne pas a partir de 3.5. </li>
@@ -55,7 +55,7 @@
  <br><center><img src="../Ressources/Jens/20190211_112533.jpg" alt="brouillon" height="200"></center> 
   <li> Voici le cablage de l'arduion et de l'attiny2313</li>
 <br><center><img src="../Ressources/Jens/20190211_110633.jpg" alt="brouillon" height="200"></center>
- </li><h2> Travail personnel du 04 février</h2>
+ </li><h2> Travail personnel du 25 février</h2>
  <ul>
 <li> 
  Pendant les vacances, Monsieur Masson nous a fais un montage pour utiliser la puce Attiny2313 et également pour utiliser l'ancienne télécommande du zeppelin car le HC06 ne pouvais pas etre alimenter par la pipile de 3V. Il nous a donc presenter le montage, et il a fallu, telecharger les bibliotheques pour Attiny2313, charger le programme ArduinoISP puis le programme de Monsieur Masson pour controler les leds avec la télécommande.
@@ -64,7 +64,14 @@
  <br><center><img src="../Ressources/Jens/20190225_104613.jpg" alt="brouillon" height="200"></center>
  <br><center><img src="../Ressources/Jens/20190225_110027.jpg" alt="brouillon" height="200"></center> 
  
- 
+  </li><h2> Travail personnel du 04 mars</h2>
+  
+  
+  
   <br><center><img src="../Ressources/Jens/20190304_121817.jpg" alt="brouillon" height="200"></center>
+  
+  
+ 
+ 
   
   
