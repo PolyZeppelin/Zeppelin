@@ -101,3 +101,16 @@ https://youtu.be/4ceAmGodClM
 <br>
 • J'ai commencé l'écriture du rapport du projet <br>
 • Jens m'ayant informé d'un problème de surcharge lors de la compilation des programmes avec la nouvelle carte, j'ai envoyé un mail à Monsieur Masson afin de savoir si nous avions des solutions.
+
+<br>
+<hr>
+<h2> Séance du 04 mars 2019 </h2>
+<hr>
+<br>
+• J'ai adapté le code que nous possédions pour les moteurs avec Bluetooth afin qu'il puisse fonctionner sur la carte Uno avec ATTiny.
+<br>
+• Après quelques essais, je suis parvenu à créer un programme qui fait fonctionner les moteurs <br>
+• Il a fallu régler quelques problèmes au niveau des branchements des moteurs <br>
+• Nous avons également resoudé un des câbles du moteur qui était mal en point <br>
+• Après avoir tout réglé, les moteurs ont bien fonctionné avec le nouveau programme <br>
+
