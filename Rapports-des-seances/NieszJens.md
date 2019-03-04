@@ -65,9 +65,8 @@
  <br><center><img src="../Ressources/Jens/20190225_110027.jpg" alt="brouillon" height="200"></center> 
  
   </li><h2> Travail personnel du 04 mars</h2>
-  
-  
-  
+  Aujourd'hui, nous avons pu utiliser le Attiny2313 car nous avions avancer chez nous, le Attiny controle donc les leds, cependant nous sommes face a un probleme de taille, car le attiny possede uniquement 2048 octets. Le programme qui controle les leds, qui fais que quelques lignes, utilise deja 95% de la memoire disponible. Pour pallier a ce probleme, nous utilisons un second Attiny, nous avons passer la moitié de la séance a connecter le Attiny au double pont en H , afin de controler les moteurs, mais encore une fois la taille nous empeche de faire le programme que nous souhaitions. Nous sommes donc face a un probleme que nous ne savons pas regler, Monsieur Masson propose de repartir les taches, et donc de controler 1 moteurs via 1 Attiny et les 2 autres avec l'autre Attiny. Cependant malgrés cela nous n'arrivons pas a faire les programmes necessaire au controle des parametres, car un simple SERIAL.PRINTLN est trop gourmant en mémoire. 
+
   <br><center><img src="../Ressources/Jens/20190304_121817.jpg" alt="brouillon" height="200"></center>
   
   
