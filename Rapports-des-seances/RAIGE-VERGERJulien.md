@@ -113,4 +113,4 @@ https://youtu.be/4ceAmGodClM
 • Il a fallu régler quelques problèmes au niveau des branchements des moteurs <br>
 • Nous avons également resoudé un des câbles du moteur qui était mal en point <br>
 • Après avoir tout réglé, les moteurs ont bien fonctionné avec le nouveau programme <br>
-
+• Malgré le bon fonctionnement des moteurs, la très faible capacité des ATTiny nous pose beaucoup de problèmes, un simple "Serial.println" pour modifier efficacement le programme est impossible. <br>
