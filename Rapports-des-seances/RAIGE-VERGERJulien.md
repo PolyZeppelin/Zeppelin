@@ -122,7 +122,9 @@ https://youtu.be/4ceAmGodClM
 <h2> Travail personnel le 7 mars 2019 </h2>
 <hr>
 <br>
-• Nous avons décidé le 5 mars 2019 de revenir complètement au Bluetooth car il était très fonctionnel.
-• Nous avons également pris la décision de réaliser une nacelle fonctionnelle via Bluetooth, que nous allons relier au ballon. 
-• Hélas, le ballon ne permettra sûrement pas de faire voler la nacelle car elle sera trop lourde (notamment à cause de la pile que nous venons de récupérer).
-
+• Nous avons décidé le 5 mars 2019 de revenir complètement au Bluetooth car il était très fonctionnel. <br>
+• Nous avons également pris la décision de réaliser une nacelle fonctionnelle via Bluetooth, que nous allons relier au ballon. <br> 
+• Hélas, le ballon ne permettra sûrement pas de faire voler la nacelle car elle sera trop lourde (notamment à cause de la pile que nous venons de récupérer). <br>
+• Nous avons pesé, à l'aide d'une balance Arduino, le poids de la carte et de la plaque, qui donne 24.1g, puis avec la pile, qui donne 93.9g.  <br>
+<img src="../Ressources/Julien/balance+écran.jpg"" /> <br>
+<img src="../Ressources/Julien/poids.jpg"" /> <br>
