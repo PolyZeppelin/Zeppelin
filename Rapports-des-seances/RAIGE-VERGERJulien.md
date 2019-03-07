@@ -129,3 +129,4 @@ https://youtu.be/4ceAmGodClM
 <br>
 <img src="../Ressources/Julien/balance+écran.jpg"" /> <br>
 <img src="../Ressources/Julien/poids.jpg"" /> <br>
+• Nous nous sommes rendus au FabLab afin de construire la nacelle. J'ai donc créé un patron de boîte avec http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:trucs_astuces:generateur_boite_encoches , puis avec le logiciel "Inkscape", j'ai réalisé quelques ouvertures qui serviront à placer les trois moteurs. Donc une ouverture sur la face du dessous pour le moteur bas et deux ouvertures sur les faces de côté pour les moteurs latéraux. <br>
