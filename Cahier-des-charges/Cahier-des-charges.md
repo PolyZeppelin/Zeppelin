@@ -9,7 +9,7 @@ afin de faire voler le zeppelin.
 <br> 
 <h2> Objectifs: </h2>
 <br>
-Réussir à faire voler le zeppelin et contrôler ses déplacements à l'aide du téléphone.
+Réussir à restaurer et à faire voler le zeppelin et contrôler ses déplacements à l'aide du téléphone.
 
 <br>
 <h2> Fonctionnement: </h2>
